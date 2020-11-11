@@ -2,12 +2,16 @@ require 'pry'
 
 
 def game_hash()
-  x = {}
-  x
+  game_data = {:home => {
+    :team_name => 'str',:colors => ['aos'], :players => [{},{}]
+  },:away => {
+    :team_name => 'str',:colors => ['aos'], :players => [{},{}]
+  }}
+  
+
+
+
+
   binding.pry
-
-
-
-
 
 end
