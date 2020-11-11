@@ -1,1 +1,10 @@
-# Write your code here!
+def game_hash()
+  x = {}
+  x
+
+
+
+
+
+
+end
